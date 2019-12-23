@@ -1,0 +1,1 @@
+{"version":3,"file":"pokemon.schemas.js","sourceRoot":"","sources":["../../../src/pokemon/schemas/pokemon.schemas.ts"],"names":[],"mappings":";;AAAA,qCAAqC;AAExB,QAAA,aAAa,GAAG,IAAI,QAAQ,CAAC,MAAM,CAAC;IAC/C,MAAM,EAAE,MAAM;IACd,WAAW,EAAE,OAAO;IACpB,EAAE,EAAE,MAAM;IACV,IAAI,EAAE,MAAM;IACZ,MAAM,EAAE,MAAM;IACd,KAAK,EAAE,MAAM;IACb,MAAM,EAAE,MAAM;IACd,IAAI,EAAE,MAAM;CACb,CAAC,CAAC"}

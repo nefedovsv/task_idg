@@ -10,8 +10,7 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
-# production
-/dist
+
 
 # OS
 .DS_Store
