@@ -9,4 +9,8 @@
 - для стилизации компонентов использовал Antd;
 - авторизация выполнена по протоколу OAuth 2.0.
 ###  [Тестовое задание](https://docs.google.com/document/d/1F0KLuIMjJdKHtGft4XayLVtYEyh6XxiRayjdPkoehuU/edit)
-### Для запуска необходимо установить клиентскую часть (скрипты: npm install, npm run start). Сервер уже развернут удаленно!
+###  [Демо версия](https://apppokemon.herokuapp.com/)
+ - опубликована на Heroku;
+ - БД MongoDB Atlas;
+ 
+### Для запуска локально необходимо установить клиентскую часть (скрипты: npm install, npm run start). Сервер уже развернут удаленно!
